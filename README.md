@@ -9,9 +9,3 @@ The "show panel" / "hide panel" buttons should show/hide a panel that displays a
 The initial value (in gwei) upon opening the panel being should be the value in the input field at the time the panel is opened. 
 
 
-**Target time**: 60-90 minutes
-
-45-60 minutes: Core functionality 
-
-15-30 minutes: make it look nice
-
